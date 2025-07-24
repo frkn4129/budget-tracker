@@ -2,3 +2,4 @@
 .env.*
 auth-service/init_db.sh
 auth-service/.env
+**/init_db.sh
